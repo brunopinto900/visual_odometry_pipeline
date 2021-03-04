@@ -1,0 +1,8 @@
+WILL DO
+
+
+
+
+Improvements:
+comment code, organize code, exceptions in file handling
+solve the absolute path issue for the data
